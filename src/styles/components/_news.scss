@@ -1,0 +1,21 @@
+.news {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.news-box {
+  // border: 3px solid black;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.news-title {
+  font-family: $news;
+  text-decoration: none;
+  color: $color-title;
+}
+
+.news-info-title {
+  color: $color-info-title;
+}

@@ -1,0 +1,12 @@
+.search-bar {
+  background: $search-bar-color;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: $news;
+}
+
+.search-bar-page-info {
+  display: flex;
+  justify-content: center;
+}
